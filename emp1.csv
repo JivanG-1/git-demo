@@ -1,0 +1,7 @@
+emp_id,emp_name,dept,salary,gender,email
+101,John,IT,60000,M,john@gmail.com
+102,Anna,HR,,F,anna@gmail.com
+103,,Finance,75000,F,
+104,Mark,IT,55000,,mark@gmail.com
+105,Sara,,70000,F,sara@gmail.com
+106,David,HR,,M,
